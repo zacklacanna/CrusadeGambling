@@ -1,0 +1,636 @@
+gui:
+  1:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  2:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  3:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  4:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  5:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  6:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  7:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  8:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  9:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  10:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  11:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  12:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&e&lSlots"
+    row: 1
+    position: 1
+    type: slot
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  13:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  14:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&e&lSlots"
+    row: 1
+    position: 2
+    type: slot
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  15:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  16:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&e&lSlots"
+    row: 1
+    position: 3
+    type: slot
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  17:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  18:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  19:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  20:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    position: 1
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  21:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&e&lSlots"
+    row: 2
+    position: 1
+    type: slot
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  22:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  23:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&e&lSlots"
+    row: 2
+    position: 2
+    type: slot
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  24:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  25:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&e&lSlots"
+    row: 2
+    position: 3
+    type: slot
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  26:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  27:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  28:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  29:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  30:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&e&lSlots"
+    row: 3
+    position: 1
+    type: slot
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  31:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  32:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&e&lSlots"
+    row: 3
+    position: 2
+    type: slot
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  33:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  34:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&e&lSlots"
+    row: 3
+    position: 3
+    type: slot
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  35:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  36:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  37:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  38:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  39:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  40:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  41:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  42:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  43:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  44:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+  45:
+    head: false
+    headID: 999
+    itemId: 160
+    itemData: 15
+    name: "&7 "
+    row: 0
+    type: placer
+    lore:
+    - " "
+    glow: false
+    actions:
+    - ""
+    
+settings:
+  cost: 100
+  name: "&7          &e&lCrusade&b&lSlots"
+  slots: 45
+  length: 5
+  animation: true
+  jackpot:
+    odds: .5
+    message:
+    - "MOTHA"
+    - "FUCKIN"
+    - "JACKPOT"
+    actions:
+    - ""
+  slotItems:
+  - "57_0;25000;7"
+  - "152_0;1000;10"
+  - "173_0;5000;17"
+  - "7_0;500;10"
+  - "133_0;50000;10"
+  
+messages:
+  funds:
+  - "not enough"
+  - "of dat cash"
+  - "Required: %cost%"
+  win:
+  - "you won %money%"
+  - "dame dollas"
+  lose:
+  - "you lost"
+  - "and got no"
+  - "dame dollars"
+  winTitle:
+  - "&a&lCongratulations"
+  - "&7&oYou have won $%money%"
+  loseTitle:
+  - "&c&lLoss"
+  - "&7&oYou did not win. Play again with /slots"

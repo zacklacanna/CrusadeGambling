@@ -1,0 +1,15 @@
+name: CrusadeGambling
+author: BoyJamal
+version: 1.0.0
+main: me.boyjamal.gambling.Main
+depend: [Vault, HeadDatabase, TitleAPI]
+
+commands:
+  coinflip:
+    aliases: [cf, flip]
+    usage: /<command>
+    description: Main CoinFlip CMD!
+  slots:
+    aliases: [slot, casino]
+    usage: /<command>
+    description: Main Slots CMD!
