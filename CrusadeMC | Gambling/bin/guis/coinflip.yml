@@ -1,0 +1,35 @@
+settings:
+  min: 1000
+  max: -1
+
+titles:
+  winner:
+  - "&a&lWINNER"
+  - "&7&oYou have won %money%"
+  loser:
+  - "&c&lLOSS"
+  - "&7&oPlay again with /cf"
+
+messages:
+  helpMessage:
+  - "help"
+  emptyQueue:
+  - "empty"
+  overMax:
+  - "over max"
+  underMin:
+  - "under min"
+  fullQueue:
+  - "full"
+  invalidNumber:
+  - "invalid number. you entered %num%"
+  notEnoughFunds:
+  - "not enough. costs $ %num%"
+  addedQueue:
+  - "added"
+  winnerMessage:
+  - "&a&lWINNER"
+  - "&7&oYou have won %money%"
+  loserMessage:
+  - "&c&lLOSS"
+  - "&7&oPlay again with /cf"
